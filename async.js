@@ -26,3 +26,21 @@ searchBtn.addEventListener('click', () => {
 
 // By Default Location
 getWeatherData("Dhaka")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
